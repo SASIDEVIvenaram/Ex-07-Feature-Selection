@@ -119,7 +119,7 @@ print ("MSE    :",mean_squared_error(y_test,target_predict))
 print ("R2     :",r2_score(y_test,target_predict))
 ```
 
-## OUPUT:
+## OUTPUT:
 ### data.tail():
 ![ds71](https://github.com/SASIDEVIvenaram/Ex-07-Feature-Selection/assets/118707332/02f8f580-3780-40e1-b804-191fa125e0bf)
 ### Null Values:
